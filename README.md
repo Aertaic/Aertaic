@@ -6,4 +6,6 @@ I am constantly expanding my programming knowledge as well as creating small per
 
 I am also an aviation enthusiast. ✈️
 
+As of now, most of my repositories are private.
+
 Check out my Twitter profile (@Aertaic).
