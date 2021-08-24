@@ -8,4 +8,4 @@ I am also an aviation enthusiast. ✈️
 
 As of now, most of my repositories are private.
 
-Check out my Twitter profile (@Aertaic).
+Check out my Twitter profile ([@Aertaic](https://twitter.com/Aertaic)).
